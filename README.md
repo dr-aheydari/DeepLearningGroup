@@ -34,7 +34,7 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 
 
 
-## Acknowledgements
+## Acknowledgements and References
 
 ### Universal Approximation Theory
 
@@ -76,6 +76,17 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 ````
 
 ````
+@book{Ref i-Ref ii,
+        title={Deep Learning},
+        author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+        publisher={MIT Press},
+        note={\url{http://www.deeplearningbook.org}},
+        year={2016}
+ }
+
+````
+
+````
 @article{Ref iii,
 	abstract = {In this paper we demonstrate that finite linear combinations of compositions of a fixed, univariate function and a set of affine functionals can uniformly approximate any continuous function ofn real variables with support in the unit hypercube; only mild conditions are imposed on the univariate function. Our results settle an open question about representability in the class of single hidden layer neural networks. In particular, we show that arbitrary decision regions can be arbitrarily well approximated by continuous feedforward neural networks with only a single internal, hidden layer and any continuous sigmoidal nonlinearity. The paper discusses approximation properties of other possible types of nonlinearities that might be implemented by artificial neural networks.},
 	author = {Cybenko, G. },
@@ -94,16 +105,4 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	volume = {2},
 	year = {1989},
 	Bdsk-Url-1 = {https://doi.org/10.1007/BF02551274}}
-````
-
-Pre-Requisites
-````
-@book{Goodfellow-et-al-2016,
-        title={Deep Learning},
-        author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
-        publisher={MIT Press},
-        note={\url{http://www.deeplearningbook.org}},
-        year={2016}
- }
-
 ````
