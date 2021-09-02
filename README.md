@@ -31,3 +31,17 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 | Sep. 10th, 2021 | Universal Approximation Theorem          | [Ref 3](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ETtZ9P-0AI1Fu5uSvU5OAbABlAJ1gad5lpcyBhuGhlLNFg?e=ewgL8K), [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) | [Ref iii](https://link.springer.com/article/10.1007/BF02551274) |   |
 | Sep. 17th, 2021 | Appropriate Metrics and Model Evaluation | Coming soon                                                                                                                                                                                                                                                                  | [ref1](https://www.deeplearningbook.org/contents/ml.html), [ref2](https://www.deeplearningbook.org/contents/mlp.html) |   |
 |   Sep. 24th, 2021             |     Appropriate Metrics and Model Evaluation | Coming soon                                                                                                                                                                                                                                                                          |                                                                                                                       |   |
+
+
+
+## Acknowledgements
+
+    @book{Goodfellow-et-al-2016,
+        title={Deep Learning},
+        author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+        publisher={MIT Press},
+        note={\url{http://www.deeplearningbook.org}},
+        year={2016}
+    }
+
+
