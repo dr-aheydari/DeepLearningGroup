@@ -36,9 +36,9 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 
 ## Acknowledgements
 
+### Universal Approximation Theory
+
 ````
-
-
 @article{Ref 1,
 	abstract = {This paper deals with the approximation behaviour of soft computing techniques. First, we give a survey of the results of universal approximation theorems achieved so far in various soft computing areas, mainly in fuzzy control and neural networks. We point out that these techniques have common approximation behaviour in the sense that an arbitrary function of a certain set of functions (usually the set of continuous function, C) can be approximated with arbitrary accuracy ε on a compact domain. The drawback of these results is that one needs unbounded numbers of ``building blocks'' (i.e. fuzzy sets or hidden neurons) to achieve the prescribed ε accuracy. If the number of building blocks is restricted, it is proved for some fuzzy systems that the universal approximation property is lost, moreover, the set of controllers with bounded number of rules is nowhere dense in the set of continuous functions. Therefore it is reasonable to make a trade-off between accuracy and the number of the building blocks, by determining the functional relationship between them. We survey this topic by showing the results achieved so far, and its inherent limitations. We point out that approximation rates, or constructive proofs can only be given if some characteristic of smoothness is known about the approximated function.},
 	author = {Domonkos Tikk and L{\'a}szl{\'o} T. K{\'o}czy and Tam{\'a}s D. Gedeon},
@@ -55,7 +55,9 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	Bdsk-Url-1 = {https://www.sciencedirect.com/science/article/pii/S0888613X03000215},
 	Bdsk-Url-2 = {https://doi.org/10.1016/S0888-613X(03)00021-5}}
 
+````
 
+````
 @article{Ref 2,
 	abstract = {In this paper, we present a review of some recent works on approximation by feedforward neural networks. A particular emphasis is placed on the computational aspects of the problem, i.e. we discuss the possibility of realizing a feedforward neural network which achieves a prescribed degree of accuracy of approximation, and the determination of the number of hidden layer neurons required to achieve this accuracy. Furthermore, a unifying framework is introduced to understand existing approaches to investigate the universal approximation problem using feedforward neural networks. Some new results are also presented. Finally, two training algorithms are introduced which can determine the weights of feedforward neural networks, with sigmoidal activation neurons, to any degree of prescribed accuracy. These training algorithms are designed so that they do not suffer from the problems of local minima which commonly affect neural network learning algorithms.},
 	author = {Franco Scarselli and Ah {Chung Tsoi}},
@@ -71,7 +73,9 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	year = {1998},
 	Bdsk-Url-1 = {https://www.sciencedirect.com/science/article/pii/S089360809700097X},
 	Bdsk-Url-2 = {https://doi.org/10.1016/S0893-6080(97)00097-X}}
+````
 
+````
 @article{Ref iii,
 	abstract = {In this paper we demonstrate that finite linear combinations of compositions of a fixed, univariate function and a set of affine functionals can uniformly approximate any continuous function ofn real variables with support in the unit hypercube; only mild conditions are imposed on the univariate function. Our results settle an open question about representability in the class of single hidden layer neural networks. In particular, we show that arbitrary decision regions can be arbitrarily well approximated by continuous feedforward neural networks with only a single internal, hidden layer and any continuous sigmoidal nonlinearity. The paper discusses approximation properties of other possible types of nonlinearities that might be implemented by artificial neural networks.},
 	author = {Cybenko, G. },
@@ -90,7 +94,10 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	volume = {2},
 	year = {1989},
 	Bdsk-Url-1 = {https://doi.org/10.1007/BF02551274}}
+````
 
+Pre-Requisites
+````
 @book{Goodfellow-et-al-2016,
         title={Deep Learning},
         author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
