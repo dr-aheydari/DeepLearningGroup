@@ -1,7 +1,7 @@
 # UCM Applied Math Deep Learning Group (DLG)
 This repo hosts the material and references covered in the DLG learning group in Fall 2021. This `README` will be updated regularly before each meeting, so please check back for more information and resources. Contributions to this repo will also be greatly appreciated, so please feel free to fork and pull request with any updates you find necessary. ***Please star ⭐️ the repository for staying tuned with the updates***
 
-#### [Click here](https://github.com/dr-aheydari/DeepLearningGroup#learning-resources) to skip to the reading list
+### [Click here](https://github.com/dr-aheydari/DeepLearningGroup#learning-resources) for jumping to the reading list
 
 ## General Information
 The main objective of the learning group is to dive deeper into fundamentals of Machine Learning (Deep Learning in particular) through a mathematical lens. This group will provide a forum for graduate students, postdocs and faculty interested in Deep Learning to learn about the fundamentals and advances in the field while fostering broader discussions and collaborations. This group is organized by [Ali Heydari](https://www.ali-heydari.com/about). 
