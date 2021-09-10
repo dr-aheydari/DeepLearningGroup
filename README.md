@@ -31,7 +31,7 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 |-----------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---|
 | Sep. 3rd, 2021  | Universal Approximation Theorem          | [Ref 1](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUe04trpsRlHqx7lnTxiikEBwo3s2Ws-MFFtoRRFIvl2uw?e=uUyQgY), [Ref 2](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EbnJZcdaHDJHqxE0XEZQf_oB0EmMYFc_PmL36qERWDc1ZA?e=lhz8iE)  | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha)|   |
 | Sep. 10th, 2021 | Universal Approximation Theorem (Continuation of last week) | [Ref iii (main)](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUoLVWEJ7gtFspFOS7ovosABbdkFBxdx3S3eh45XwBUQ5g?e=xFKy3b), [Ref 3](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ETtZ9P-0AI1Fu5uSvU5OAbABlAJ1gad5lpcyBhuGhlLNFg?e=ewgL8K), [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha) |   |
-| Sep. 17th, 2021 | Appropriate Metrics and Model Evaluation | Coming soon                                                                                                                                                                                                                                                                  | [ref1](https://www.deeplearningbook.org/contents/ml.html), [ref2](https://www.deeplearningbook.org/contents/mlp.html) |   |
+| Sep. 17th, 2021 |  Universal Approximation Theorem of Operators |   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB)                                                                                                                                                                                                                                                                | [ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT)|   |
 |   Sep. 24th, 2021             |     Appropriate Metrics and Model Evaluation | Coming soon                                                                                                                                                                                                                                                                          |                                                                                                                       |   |
 
 
@@ -117,4 +117,16 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
         note={\url{https://link.springer.com/book/10.1007%2F3-540-29587-9}},
         year={2006}
  }
+````
+
+````
+@ARTICLE{Ref v,
+  author={Tianping Chen and Hong Chen},
+  journal={IEEE Transactions on Neural Networks}, 
+  title={Universal approximation to nonlinear operators by neural networks with arbitrary activation functions and its application to dynamical systems}, 
+  year={1995},
+  volume={6},
+  number={4},
+  pages={911-917},
+  doi={10.1109/72.392253}}
 ````
