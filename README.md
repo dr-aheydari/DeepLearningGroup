@@ -31,7 +31,7 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 |-----------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---|
 | Sep. 3rd, 2021  | Universal Approximation Theorem          | [Ref 1](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUe04trpsRlHqx7lnTxiikEBwo3s2Ws-MFFtoRRFIvl2uw?e=uUyQgY), [Ref 2](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EbnJZcdaHDJHqxE0XEZQf_oB0EmMYFc_PmL36qERWDc1ZA?e=lhz8iE)  | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha)|   |
 | Sep. 10th, 2021 | Universal Approximation Theorem (Continuation of last week) | [Ref iii (main)](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUoLVWEJ7gtFspFOS7ovosABbdkFBxdx3S3eh45XwBUQ5g?e=xFKy3b), [Ref 3](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ETtZ9P-0AI1Fu5uSvU5OAbABlAJ1gad5lpcyBhuGhlLNFg?e=ewgL8K), [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha) |   |
-| Sep. 17th, 2021 |  Universal Approximation Theorem of Operators |   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB)                                                                                                                                                                                                                                                                | [ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT)|   |
+| Sep. 17th, 2021 |  Universal Approximation Theorem of Operators |   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) (Main)                                                                                                                                                                                                                                                                | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT)|   |
 |   Sep. 24th, 2021             |     Appropriate Metrics and Model Evaluation | Coming soon                                                                                                                                                                                                                                                                          |                                                                                                                       |   |
 
 
@@ -76,6 +76,31 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	Bdsk-Url-1 = {https://www.sciencedirect.com/science/article/pii/S089360809700097X},
 	Bdsk-Url-2 = {https://doi.org/10.1016/S0893-6080(97)00097-X}}
 ````
+
+````
+@ARTICLE{Ref 3,
+  author={Bianchini, Monica and Scarselli, Franco},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={On the Complexity of Neural Network Classifiers: A Comparison Between Shallow and Deep Architectures}, 
+  year={2014},
+  volume={25},
+  number={8},
+  pages={1553-1565},
+  doi={10.1109/TNNLS.2013.2293637}}
+}
+````
+
+````
+@article{Ref 4,
+      title={DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators}, 
+      author={Lu Lu and Pengzhan Jin and George Em Karniadakis},
+      year={2020},
+      eprint={1910.03193},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}}
+````
+--------------------------------------
 
 ````
 @book{Ref i-Ref ii,
