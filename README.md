@@ -33,7 +33,7 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 | Sep. 10th, 2021 | Universal Approximation Theorem (Continuation of last week) | [Ref iii (main)](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUoLVWEJ7gtFspFOS7ovosABbdkFBxdx3S3eh45XwBUQ5g?e=xFKy3b), [Ref 3](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ETtZ9P-0AI1Fu5uSvU5OAbABlAJ1gad5lpcyBhuGhlLNFg?e=ewgL8K), [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha) |   |
 | Sep. 17th, 2021 |  Universal Approximation Theorem of Operators |   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) (Main)  | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT), [Ref vi](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf)| The Applied Analysis book by Hunter et Nachtergaele Chapter 11 can provide useful background on distributions (specifically Tempered distributions
 |   Sep. 24th, 2021|              Universal Approximation Theorem of Operators (DeepONets)|   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) (Main)  | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT), [Ref vi](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf)| The Applied Analysis book by Hunter et Nachtergaele Chapter 11 can provide useful background on distributions (specifically Tempered distributions
-|   Oct. 1st, 2021             |  Appropriate Metrics and Model Evaluation | [Ref 5](https://thesai.org/Downloads/Volume12No6/Paper_70-Classification_Model_Evaluation_Metrics.pdf) (Main), [Ref 6](https://thesai.org/Downloads/Volume12No6/Paper_70-Classification_Model_Evaluation_Metrics.pdf)                                                                                                                                                                          |                                                                                                                       |   |
+|   Oct. 1st, 2021             |  Appropriate Metrics and Model Evaluation | [Ref 5](https://thesai.org/Downloads/Volume12No6/Paper_70-Classification_Model_Evaluation_Metrics.pdf) (Main), [Ref 6]() | [Ref vii](https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/), [Ref viii]()|
 
 
 
@@ -101,6 +101,33 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
       primaryClass={cs.LG}
 }}
 ````
+
+````
+@article{Ref 5,
+      title={DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators}, 
+      author={Lu Lu and Pengzhan Jin and George Em Karniadakis},
+      year={2020},
+      eprint={1910.03193},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}}
+````
+
+````
+
+@inproceedings{Ref 6,
+	abstract = {Statistical learning algorithms often rely on the Euclidean distance. In practice, non-Euclidean or non-metric dissimilarity measures may arise when contours, spectra or shapes are compared by edit distances or as a consequence of robust object matching [1,2]. It is an open issue whether such measures are advantageous for statistical learning or whether they should be constrained to obey the metric axioms.},
+	address = {Berlin, Heidelberg},
+	author = {P{\k{e}}kalska, El{\.{z}}bieta and Harol, Artsiom and Duin, Robert P. W. and Spillmann, Barbara and Bunke, Horst},
+	booktitle = {Structural, Syntactic, and Statistical Pattern Recognition},
+	editor = {Yeung, Dit-Yan and Kwok, James T. and Fred, Ana and Roli, Fabio and de Ridder, Dick},
+	isbn = {978-3-540-37241-7},
+	pages = {871--880},
+	publisher = {Springer Berlin Heidelberg},
+	title = {Non-Euclidean or Non-metric Measures Can Be Informative},
+	year = {2006}}
+
+````
 --------------------------------------
 
 ````
@@ -156,3 +183,5 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
   pages={911-917},
   doi={10.1109/72.392253}}
 ````
+
+
