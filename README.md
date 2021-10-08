@@ -40,8 +40,6 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 
 ## Acknowledgements and References
 
-### Universal Approximation Theory
-
 ````
 @article{Ref 1,
 	abstract = {This paper deals with the approximation behaviour of soft computing techniques. First, we give a survey of the results of universal approximation theorems achieved so far in various soft computing areas, mainly in fuzzy control and neural networks. We point out that these techniques have common approximation behaviour in the sense that an arbitrary function of a certain set of functions (usually the set of continuous function, C) can be approximated with arbitrary accuracy ε on a compact domain. The drawback of these results is that one needs unbounded numbers of ``building blocks'' (i.e. fuzzy sets or hidden neurons) to achieve the prescribed ε accuracy. If the number of building blocks is restricted, it is proved for some fuzzy systems that the universal approximation property is lost, moreover, the set of controllers with bounded number of rules is nowhere dense in the set of continuous functions. Therefore it is reasonable to make a trade-off between accuracy and the number of the building blocks, by determining the functional relationship between them. We survey this topic by showing the results achieved so far, and its inherent limitations. We point out that approximation rates, or constructive proofs can only be given if some characteristic of smoothness is known about the approximated function.},
@@ -129,6 +127,44 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	year = {2006}}
 
 ````
+
+````
+@article{Ref 7,
+author = {Mehrabi, Ninareh and Morstatter, Fred and Saxena, Nripsuta and Lerman, Kristina and Galstyan, Aram},
+title = {A Survey on Bias and Fairness in Machine Learning},
+year = {2021},
+issue_date = {July 2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {54},
+number = {6},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3457607},
+doi = {10.1145/3457607},
+journal = {ACM Comput. Surv.},
+month = jul,
+articleno = {115},
+numpages = {35},
+keywords = {machine learning, deep learning, representation learning, natural language processing, Fairness and bias in artificial intelligence}
+}
+````
+
+````
+@article{ref 8,
+  author    = {Sebastian Ruder},
+  title     = {An overview of gradient descent optimization algorithms},
+  journal   = {CoRR},
+  volume    = {abs/1609.04747},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1609.04747},
+  eprinttype = {arXiv},
+  eprint    = {1609.04747},
+  timestamp = {Mon, 13 Aug 2018 16:48:10 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/Ruder16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+````
+
 --------------------------------------
 
 ````
