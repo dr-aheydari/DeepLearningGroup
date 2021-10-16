@@ -36,8 +36,8 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 |   Oct. 1st, 2021             |  Appropriate Metrics and Model Evaluation | [Ref 5](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EVpyaKHglh5EkJ3IZCSbEfIBbGvRnAtyJo5v-Vc_ioU1xw?e=6cyUfi) (Main), [Ref 6](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EbWCPleeAsFGkh_kSiC0K9wBKhk50ejHADev1u3_yqnlcQ?e=v8rNTE) | [Ref vii](https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/), [Ref viii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EasHWPAcd9FLnti61repHGgBpu1mnJXJr3nvustfURp5_w?e=o7t0eq)
 | Oct. 8th, 2021 	       | Evaluation with Imbalance Data (Fairness and Bias in AI)| [Ref 7](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EdMYVAYd3d1CgK9u95k_q6sBHv7V4WC7Srw9zNhUeq2rxw?e=01FG50) (Section 5) | | 
 | Oct. 15th, 2021		| Optimization in DL (Basics) | [Ref 8](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ER2ubQVT6vBMm6oDET9k7ocB1SFBhPkzUBeOIYcqP7e0_A?e=WrE7f0) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67) | The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
-| Oct. 22nd, 2021		| On the Convergance of Adaptive Optimizers | [Ref 9](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EROntlCIHYhJjEoBuVLyoKIBePubLm6kY1XN0TySk0DC0w?e=BJhjQE) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67), [Ref x](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67)| The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
-| Oct. 29th, 2021		| Multi-Task Optimization in DL | TBD | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67), [Ref x](https://arxiv.org/abs/1912.12355)|  |
+| Oct. 22nd, 2021		| On the Convergance of Adaptive Optimizers | [Ref 9](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EROntlCIHYhJjEoBuVLyoKIBePubLm6kY1XN0TySk0DC0w?e=BJhjQE) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67)| The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
+| Oct. 29th, 2021		| Multi-Task Optimization in DL | Ref[10](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EStHL-D0ZgVEvw9QE_2xZBYB1TyuqlAO94u00buavvt89Q?e=IOsplK) | [Ref x](https://arxiv.org/abs/1912.12355)|  |
 
 
 ## Acknowledgements and References
@@ -176,6 +176,26 @@ keywords = {machine learning, deep learning, representation learning, natural la
       archivePrefix={arXiv},
       primaryClass={stat.ML}
 }
+```
+
+```
+
+@InProceedings{pmlr-v119-mahapatra20a,
+  title = 	 {Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization},
+  author =       {Mahapatra, Debabrata and Rajan, Vaibhav},
+  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
+  pages = 	 {6597--6607},
+  year = 	 {2020},
+  editor = 	 {III, Hal Daumé and Singh, Aarti},
+  volume = 	 {119},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v119/mahapatra20a/mahapatra20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v119/mahapatra20a.html},
+  abstract = 	 {Multi-Task Learning (MTL) is a well established paradigm for jointly learning models for multiple correlated tasks. Often the tasks conflict, requiring trade-offs between them during optimization. In such cases, multi-objective optimization based MTL methods can be used to find one or more Pareto optimal solutions. A common requirement in MTL applications, that cannot be addressed by these methods, is to find a solution satisfying userspecified preferences with respect to task-specific losses. We advance the state-of-the-art by developing the first gradient-based multi-objective MTL algorithm to solve this problem. Our unique approach combines multiple gradient descent with carefully controlled ascent to traverse the Pareto front in a principled manner, which also makes it robust to initialization. The scalability of our algorithm enables its use in large-scale deep networks for MTL. Assuming only differentiability of the task-specific loss functions, we provide theoretical guarantees for convergence. Our experiments show that our algorithm outperforms the best competing methods on benchmark datasets.}
+}
+
 ```
 
 --------------------------------------
