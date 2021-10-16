@@ -36,9 +36,9 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 |   Oct. 1st, 2021             |  Appropriate Metrics and Model Evaluation | [Ref 5](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EVpyaKHglh5EkJ3IZCSbEfIBbGvRnAtyJo5v-Vc_ioU1xw?e=6cyUfi) (Main), [Ref 6](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EbWCPleeAsFGkh_kSiC0K9wBKhk50ejHADev1u3_yqnlcQ?e=v8rNTE) | [Ref vii](https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/), [Ref viii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EasHWPAcd9FLnti61repHGgBpu1mnJXJr3nvustfURp5_w?e=o7t0eq)
 | Oct. 8th, 2021 	       | Evaluation with Imbalance Data (Fairness and Bias in AI)| [Ref 7](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EdMYVAYd3d1CgK9u95k_q6sBHv7V4WC7Srw9zNhUeq2rxw?e=01FG50) (Section 5) | | 
 | Oct. 15th, 2021		| Optimization in DL (Basics) | [Ref 8](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ER2ubQVT6vBMm6oDET9k7ocB1SFBhPkzUBeOIYcqP7e0_A?e=WrE7f0) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67) | The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
+| Oct. 22nd, 2021		| On the Convergance of Adaptive Optimizers | [Ref 9](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EROntlCIHYhJjEoBuVLyoKIBePubLm6kY1XN0TySk0DC0w?e=BJhjQE) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67), [Ref x](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67)| The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
+| Oct. 29th, 2021		| Multi-Task Optimization in DL | TBD | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67), [Ref x](https://arxiv.org/abs/1912.12355)|  |
 
-
-h
 
 ## Acknowledgements and References
 
@@ -166,6 +166,17 @@ keywords = {machine learning, deep learning, representation learning, natural la
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ````
+
+```
+@article{Ref9,
+      title={On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes}, 
+      author={Xiaoyu Li and Francesco Orabona},
+      year={2019},
+      eprint={1805.08114},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML}
+}
+```
 
 --------------------------------------
 
