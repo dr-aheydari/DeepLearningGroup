@@ -180,7 +180,7 @@ keywords = {machine learning, deep learning, representation learning, natural la
 
 ```
 
-@InProceedings{pmlr-v119-mahapatra20a,
+@InProceedings{Ref10,
   title = 	 {Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization},
   author =       {Mahapatra, Debabrata and Rajan, Vaibhav},
   booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
