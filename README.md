@@ -210,6 +210,28 @@ keywords = {machine learning, deep learning, representation learning, natural la
 
 ```
 
+```
+@misc{Ref 12,
+      title={Deep contextualized word representations}, 
+      author={Matthew E. Peters and Mark Neumann and Mohit Iyyer and Matt Gardner and Christopher Clark and Kenton Lee and Luke Zettlemoyer},
+      year={2018},
+      eprint={1802.05365},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+```
+
+```
+@misc{Ref 13,
+      title={Neural Machine Translation by Jointly Learning to Align and Translate}, 
+      author={Dzmitry Bahdanau and Kyunghyun Cho and Yoshua Bengio},
+      year={2016},
+      eprint={1409.0473},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 --------------------------------------
 
 ````
