@@ -40,10 +40,9 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 | Oct. 29th, 2021		| DL in Natural Language Processing | [Ref 12](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EeyfL9vJ5aJFms57DI-k4hoBQyEl6dufjRb2Blbjbh8UkA?e=bKwru2) | [Ref xii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EXJWbb1tfHNIvSo_lpsXxeYB7G6xWZjzqzj3KEpyLGWGeA?e=bQpxj3), [Ref xiii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ERe8fEQjxBVEtjuMXcWXGAwBR4dDiplpKnlDL1RHjIGtIw?e=hDRmbX)|  |
 | Nov. 5th, 2021		| Additive Attention for Neural Language Translation | [Ref 13](https://arxiv.org/pdf/1409.0473.pdf) | [Ref xiv](https://d2l.ai/chapter_recurrent-modern/encoder-decoder.html), [Ref xv](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) | Supplementary references are for a quick introduction to encoders and decoders, as well as a source on RNN's and their applications. |
 | Nov. 12th, 2021		| Attention is All You Need | [Ref 14](https://arxiv.org/pdf/1706.03762.pdf) | [Ref xvi](https://jalammar.github.io/illustrated-transformer/), [Ref xvii](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) | Supplementary references are provided for condensed and visual descriptions of Transformers to aid in understanding the primary reference this week. |
-| Nov. 19th, 2021		| Pre-training of Deep Bidirectional Transformers for Language Understanding | [Ref 15](https://arxiv.org/pdf/1810.04805.pdf) | [Ref xvi](https://jalammar.github.io/illustrated-transformer/), [Ref xvii](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) | Supplementary references are provided for condensed and visual descriptions of Transformers to aid in understanding the primary reference this week. |
+| Nov. 19th, 2021		| Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)| [Ref 15](https://arxiv.org/pdf/1810.04805.pdf) | [Ref xvi](https://jalammar.github.io/illustrated-transformer/), [Ref xvii](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) | Supplementary references are provided for condensed and visual descriptions of Transformers to aid in understanding the primary reference this week. |
+| Nov. 26th, 2021		| Language Models are Unsupervised Multitask Learners (GPT)| [Ref 16](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [Ref xvi](https://jalammar.github.io/illustrated-transformer/), [Ref xvii](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) | Supplementary references are provided for condensed and visual descriptions of Transformers to aid in understanding the primary reference this week.|
 
-
-https://arxiv.org/pdf/1810.04805.pdf 
 
 ## Acknowledgements and References
 
@@ -234,6 +233,36 @@ keywords = {machine learning, deep learning, representation learning, natural la
       eprint={1409.0473},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+}
+```
+
+```
+@misc{Ref 14,
+      title={Attention Is All You Need}, 
+      author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+      year={2017},
+      eprint={1706.03762},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+```
+@misc{Ref 15,
+      title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding}, 
+      author={Jacob Devlin and Ming-Wei Chang and Kenton Lee and Kristina Toutanova},
+      year={2019},
+      eprint={1810.04805},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+```
+@inproceedings{Ref 16,
+  title={Language Models are Unsupervised Multitask Learners},
+  author={Alec Radford and Jeff Wu and Rewon Child and David Luan and Dario Amodei and Ilya Sutskever},
+  year={2019}
 }
 ```
 --------------------------------------
